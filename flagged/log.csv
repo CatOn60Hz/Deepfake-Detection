@@ -1,0 +1,3 @@
+Input Image,Class,Face with Explainability,flag,username,timestamp
+,"{""label"": null, ""confidences"": null}",,,,2024-08-26 09:54:14.012026
+,"{""label"": ""real"", ""confidences"": [{""label"": ""real"", ""confidence"": 0.6498508155345917}, {""label"": ""fake"", ""confidence"": 0.3501491844654083}]}",flagged\Face with Explainability\4b9d5fdd6516f2faad95\image.webp,,,2024-08-26 10:07:17.017074
